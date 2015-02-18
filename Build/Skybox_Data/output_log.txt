@@ -1,0 +1,21 @@
+Initialize engine version: 4.6.2f1 (bd99309c2ad7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: ATI Radeon HD 4300 Series (ID=0x954f)
+    Vendor:   ATI
+    VRAM:     507 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Many Players\Desktop\Unity Project\Skybox\Build\Skybox_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Many Players\Desktop\Unity Project\Skybox\Build\Skybox_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Many Players\Desktop\Unity Project\Skybox\Build\Skybox_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Many Players\Desktop\Unity Project\Skybox\Build\Skybox_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Many Players\Desktop\Unity Project\Skybox\Build\Skybox_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Many Players\Desktop\Unity Project\Skybox\Build\Skybox_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Many Players\Desktop\Unity Project\Skybox\Build\Skybox_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Many Players\Desktop\Unity Project\Skybox\Build\Skybox_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.054 seconds
+desktop: 1440x900 60Hz; virtual: 2800x900 at -1360,0
+<RI> Initializing input.
+XInput1_3.dll not found.
+<RI> Input initialized.
